@@ -571,3 +571,9 @@ a:focus-visible {
 .blog-post-container {
     max-width: 800px;
 }
+
+/* No Posts Message */
+.no-posts {
+    color: var(--color-text-light);
+    font-style: italic;
+}
